@@ -108,19 +108,19 @@ class PieChartCard extends HTMLElement {
                         // showZero: true,
 
                         // font size, default is defaultFontSize
-                        // fontSize: 12,
+                        fontSize: 12,
 
                         // font color, can be color array for each data or function for dynamic color, default is defaultFontColor
                         // fontColor: '#fff',
 
                         // font style, default is defaultFontStyle
-                        // fontStyle: 'normal',
+                        fontStyle: 'normal',
 
                         // font family, default is defaultFontFamily
-                        // fontFamily: "'Helvetica Neue', 'Helvetica', 'Arial', sans-serif",
+                        fontFamily: "'Helvetica Neue', 'Helvetica', 'Arial', sans-serif",
 
                         // draw text shadows under labels, default is false
-                        // textShadow: true,
+                        textShadow: true,
 
                         // text shadow intensity, default is 6
                         // shadowBlur: 10,
